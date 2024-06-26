@@ -10,3 +10,5 @@ liukai94318/python:3.10.12-alpine3.18-akshare-1.10.39
 liukai94318/flaresolverr:v3.2.1
 liukai94318/subconverter:latest
 liukai94318/jdk:8
+liukai94318/jdk:8-slim
+liukai94318/jre:8
