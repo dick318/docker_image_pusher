@@ -1,7 +1,12 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+
 liukai94318/doris:2.0.2-be-x64-avx2
+liukai94318/python:3.10.12-alpine3.18-akshare-1.10.39
+liukai94318/flaresolverr:v3.2.1
+liukai94318/subconverter:latest
+liukai94318/jdk:8
