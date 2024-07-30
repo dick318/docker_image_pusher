@@ -12,3 +12,4 @@ liukai94318/subconverter:latest
 liukai94318/jdk:8
 liukai94318/jdk:8-slim
 liukai94318/jre:8
+wiznote/wizserver:latest
